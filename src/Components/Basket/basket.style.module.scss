@@ -1,0 +1,16 @@
+.basket{
+    margin-left: 80%;
+    &_icon{
+        font-size: 30px;
+        font-weight: 600;
+    }
+}
+
+.count{
+    width: 50px;
+    height: 30px;
+    padding: 10px;
+    border: 1px solid orangered;
+    border-radius: 50%;
+    background-color: orangered;
+}
