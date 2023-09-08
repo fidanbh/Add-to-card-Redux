@@ -7,7 +7,6 @@ function App() {
   return (
     <>
       <BrowserRouter>
-        <Products />
         <Routes>
           <Route path="/" element={<Products/>} />
           <Route path="/shoppingCard" element={<ShoppingCard />} />
